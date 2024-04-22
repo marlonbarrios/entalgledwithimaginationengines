@@ -8,6 +8,10 @@ Welcome to the companion webpage for my artist lecture, **"Entangled with Imagin
 
 Each project listed below showcases a unique exploration of generative AI and interactive media, probing and portraying the complex interplay between human and digital cognition.
 
+### Video Presentation
+Watch a play list of videos as doumentation and as pieces in themselves.
+[Watch on YouTube](https://www.youtube.com/playlist?list=PLC2ijZ2U-avgiulwpSlCbvM2FAbUBtwlz)
+
 ### Proteans
 An exploration into fluid identities through generative AI.
 [Read more about Proteans](https://medium.com/@marlon_21867/proteans-unbound-collection-6dbf51da1650)
@@ -32,9 +36,6 @@ My first album as a multi-media, multimodal, and multi-model artist, navigating 
 Investigates the choreographic potentials between humans and AI, creating a dance of mutual influence and evolution.
 [Read about Duets in Latent Spaces](https://medium.com/@marlon_21867/duets-in-latent-spaces-53bcfe49f2db)
 
-### Video Presentation
-Watch a detailed presentation on "Entangled with Imagination Engines" which covers the core concepts and visual examples of my work.
-[Watch on YouTube](https://www.youtube.com/watch?v=8kcUjuXBFA8)
 
 ## Contact
 For further inquiries or discussions about potential collaborations, please feel free to contact me.
