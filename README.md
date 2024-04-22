@@ -1,5 +1,7 @@
 # Entangled with Imagination Engines
 
+![Screenshot 2024-04-22 at 12 19 38 PM](https://github.com/marlonbarrios/entalglesinimaginationengines/assets/90220317/c2037524-e2e5-4d03-bd0e-45c1b18df3d5)
+
 Welcome to the companion webpage for my artist lecture, **"Entangled with Imagination Engines."** This page serves as a resource hub, providing deeper insights into the integration of generative AI with interactive media in my artistic practice.
 
 ## Projects Overview
