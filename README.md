@@ -8,7 +8,7 @@ Welcome to the companion webpage for my artist lecture, **"Entangled with Imagin
 
 Each project listed below showcases a unique exploration of generative AI and interactive media, probing and portraying the complex interplay between human and digital cognition.
 
-## {unstablelandscapes](https://marlonbarrios.github.io/unstablelandscapeinfoviz/)
+## [unstablelandscapes](https://marlonbarrios.github.io/unstablelandscapeinfoviz/)
 
 ### Video Presentation
 Watch a play list of videos as doumentation and as pieces in themselves.
