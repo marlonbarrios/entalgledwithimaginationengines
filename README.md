@@ -43,6 +43,8 @@ My first album as a multi-media, multimodal, and multi-model artist, navigating 
 Investigates the choreographic potentials between humans and AI, creating a dance of mutual influence and evolution.
 [Read about Duets in Latent Spaces](https://medium.com/@marlon_21867/duets-in-latent-spaces-53bcfe49f2db)
 
+### more about my work in [Medium](https://medium.com/@marlon_21867)
+
 
 ## Contact
 For further inquiries or discussions about potential collaborations, please feel free to contact me.
