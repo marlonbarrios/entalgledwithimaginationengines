@@ -34,6 +34,10 @@ A recursive tribute to Alan Turing, focusing on AI's interpretative and memory c
 My first album as a multi-media, multimodal, and multi-model artist, navigating through AI-generated auditory and visual landscapes.
 [Discover Digressions in Latent Space](https://medium.com/@marlon_21867/digressions-in-latent-space-b11dd9ba46c8)
 
+### meta-fictions
+“Meta-fictions: A Fugue Entangled with Several Odd Kins and Intelligences” is the outcome of a collaboration between artists Dakota Comin, Cesar Rene Perez, and Vera Rivas, developed during a residency at Lake Studios Berlin in November 2023. This project marries the realms of generative AI, realtime computation with dance and performance art.
+[Discover meta-fictions](https://medium.com/@marlon_21867/meta-fictions-project-description-6bad0678373e)
+
 ### Duets in Latent Spaces
 Investigates the choreographic potentials between humans and AI, creating a dance of mutual influence and evolution.
 [Read about Duets in Latent Spaces](https://medium.com/@marlon_21867/duets-in-latent-spaces-53bcfe49f2db)
