@@ -31,6 +31,10 @@ A digital journey through memory and identity reconstruction using AI.
 A recursive tribute to Alan Turing, focusing on AI's interpretative and memory capabilities.
 [Learn about Alan-AI](https://medium.com/@marlon_21867/a-recursive-tribute-to-alan-turing-37c6c6534ea7)
 
+### Sati-AI 
+Sati-AI is a multi-lingual AI-powered buddhist wisdom guide and mindfulness meditation coach that incorporates interdisciplinary connections with contemporary knowledge, such as embodied cognition and enactivism, trauma-informed approaches, and art. It primarily draws from the Theravada tradition of early Buddhism to help you cultivate mindfulness and wisdom within complex cultural histories.
+[Allow Sati-AI to guide you](https://www.sati-ai.app/)
+
 ### Digressions in Latent Space
 My first album as a multi-media, multimodal, and multi-model artist, navigating through AI-generated auditory and visual landscapes.
 [Discover Digressions in Latent Space](https://medium.com/@marlon_21867/digressions-in-latent-space-b11dd9ba46c8)
@@ -47,6 +51,12 @@ Investigates the choreographic potentials between humans and AI, creating a danc
 
 ### more about my work in [Medium](https://medium.com/@marlon_21867)
 
+### this is the music generator [Musicgen](https://replicate.com/meta/musicgen)
+
+### Epigenetic Camouflage images in Midjourney [link to images](https://www.midjourney.com/jobs/6bb29ad7-aa3d-4081-9462-70eb1f348e0d?index=0)
 
 ## Contact
 For further inquiries or discussions about potential collaborations, please feel free to contact me.
+
+### [My linkthree](https://linktr.ee/marlonbarriososolano)
+
